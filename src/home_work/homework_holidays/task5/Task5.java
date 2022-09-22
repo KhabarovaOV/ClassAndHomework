@@ -36,7 +36,7 @@ class Name{
         olya = "says";
     }
     Name(double y, int x){
-        olya = "sing"
+        olya = "sing";
     }
     void result(){
         System.out.println("Name" + olya);
