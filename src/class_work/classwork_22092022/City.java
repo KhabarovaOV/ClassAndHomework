@@ -36,6 +36,6 @@ public class City {
 
     @Override
     public String toString() {
-        return "City: " + name + "country = " + country +", countOfPeople = " + countOfPeople;
+        return "City: " + name + ", country = " + country +", countOfPeople = " + countOfPeople;
     }
 }

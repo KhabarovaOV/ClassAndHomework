@@ -30,6 +30,6 @@ public class Country {
 
     @Override
     public String toString() {
-        return "Country "+ name  + ", continent= " + continent;
+        return "Country "+ name  + ", continent = " + continent;
     }
 }
