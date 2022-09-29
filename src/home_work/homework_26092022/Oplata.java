@@ -1,16 +1,18 @@
 package home_work.homework_26092022;
 
-public class Oplata {
+public abstract class Oplata {
+    String paymentTapeName;
     int nalog;
-    int zp;
-    public void summ(){
-        this.zp = zp;
-    }
-    public void showSumm(){
-        System.out.println(zp);
-    }
-    public int calculatenaloga(){
+    int nalogChild;
 
+    public abstract double calc(double totalPayment);
+
+    public abstract double calc1(double totalPayment);
+
+    @Override
+    public String toString() {
+        return "Oplata: " + paymentTapeName +
+                ", nalog = " + nalog;
     }
-    }
+}
 
