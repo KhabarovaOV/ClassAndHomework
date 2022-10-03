@@ -114,8 +114,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
+        <option value="AnnotationType" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -134,25 +135,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "C:/Github/ClassAndHomework"
-  }
-}]]></component>
-  <component name="RunManager" selected="Application.home_work.homework_nasledovanie_01102022.task4.Main">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class_work.classwork_29092022.Main" />
       <module name="ClassAndHomework" />
@@ -166,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="home_work.homework_26092022.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_work.classwork_03102022.annotation.Main" />
       <module name="ClassAndHomework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="home_work.homework_26092022.*" />
+          <option name="PATTERN" value="class_work.classwork_03102022.annotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,13 +212,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.home_work.homework_nasledovanie_01102022.task4.Main" />
         <item itemvalue="Application.home_work.homework_nasledovanie_01102022.task2.Main" />
         <item itemvalue="Application.home_work.homework_nasledovanie_01102022.task1.Main" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -241,10 +246,34 @@
       <workItem from="1664465603167" duration="2000" />
       <workItem from="1664465616431" duration="106000" />
       <workItem from="1664472140598" duration="3170000" />
+      <workItem from="1664814230984" duration="6000" />
+      <workItem from="1664814249901" duration="6221000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="702" y="311" key="#com.intellij.ide.util.MemberChooser" timestamp="1664820226456">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="311" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1664820226456" />
+    <state width="1877" height="283" key="GridCell.Tab.0.bottom" timestamp="1664820660921">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1664820660921" />
+    <state width="1877" height="283" key="GridCell.Tab.0.center" timestamp="1664820660921">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1664820660921" />
+    <state width="1877" height="283" key="GridCell.Tab.0.left" timestamp="1664820660920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1664820660920" />
+    <state width="1877" height="283" key="GridCell.Tab.0.right" timestamp="1664820660921">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1664820660921" />
   </component>
 </project>
