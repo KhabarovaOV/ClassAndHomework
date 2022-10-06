@@ -5,21 +5,21 @@ public class Mersedes implements Car {
 
     @Override
     public void assembly() {
-        System.out.println("Сборка автомобиля!" + name);
+        System.out.println("Сборка автомобиля! " + name);
     }
 
     @Override
     public void autoTransmission() {
-        System.out.println("Переключение передач происходит автоматически!" + name);
+        System.out.println("Переключение передач происходит автоматически! " + name);
     }
 
     @Override
     public void brake() {
-        System.out.println("Тормоз есть, ура!" + name);
+        System.out.println("Тормоз есть, ура! " + name);
     }
 
     @Override
     public void headlights() {
-        System.out.println("Фары не работают!" + name);
+        System.out.println("Фары не работают! " + name);
     }
 }

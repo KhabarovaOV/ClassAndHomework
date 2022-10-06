@@ -5,21 +5,21 @@ public class Volvo implements Car {
 
     @Override
     public void assembly() {
-        System.out.println("Сборка автомобиля, начали!" + name);
+        System.out.println("Сборка автомобиля, начали! " + name);
     }
 
     @Override
     public void autoTransmission() {
-        System.out.println("Переключение передач происходит механически!" + name);
+        System.out.println("Переключение передач происходит механически! " + name);
     }
 
     @Override
     public void brake() {
-        System.out.println("Тормоз есть!" + name);
+        System.out.println("Тормоз есть! " + name);
     }
 
     @Override
     public void headlights() {
-        System.out.println("Фары работают!" + name);
+        System.out.println("Фары работают! " + name);
     }
 }
