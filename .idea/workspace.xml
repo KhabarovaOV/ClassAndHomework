@@ -4,6 +4,65 @@
     <list default="true" id="977adb73-7ac4-40ca-917e-34e022792e67" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/ClassAndHomework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ClassAndHomework.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/BasePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/MainPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/PresentsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/SchedulePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/annotation/Block.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/annotation/Element.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/annotation/Page.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/annotation/Service.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/BaseBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/TopMenuBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/leftMenuBlock/FooterLeftMenuBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/leftMenuBlock/HeaderLeftMenuBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/leftMenuBlock/LeftMenuBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/leftMenuBlock/NavigationLeftMenuBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/login/LanguageBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/login/LoginFormBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/main/EventBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/main/NewsBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/present/HeaderBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/present/MaterialInformationBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/present/NavigationBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/present/StudentsTableBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block_interface/login/language_element/HasLanguageElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block_interface/login/language_element/HasTitleLanguageElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/element/BaseElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/element/Button.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/element/Input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/element/Label.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/element/Link.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/element/login/LoginButtonElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/element/login/LoginFieldElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/element/login/PasswortFieldElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/element/login/RecoverPasswordElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/element/login/language_element/LanguageElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/element/login/language_element/TitleLanguageElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/HasBaseBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/HasTopMenuBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/left_menu/HasFooterLeftMenuBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/left_menu/HasHeaderLeftMenuBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/left_menu/HasLeftMenuBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/left_menu/NavigationLeftMenuBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/login/HasLanguageBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/login/HasLoginFormBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/main/HasEventBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/main/HasNewsBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/present/HasHeaderBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/present/HasMaterialInformationBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/present/HasNavigationBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/present/HasStudentsTableBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/service/BaseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/service/LoginPageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/service/MainPageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/service/PresentPageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/service/SchedulePageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/service/service_interface/HasLoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/service/service_interface/HasMainPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/service/service_interface/HasPresentPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/service/service_interface/HasSchedulePage.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,20 +93,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="example.page.service.service_interface" />
@@ -55,6 +107,19 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Main (1)">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class_work.classwork_06102022.Main" />
       <module name="ClassAndHomework" />
@@ -120,19 +185,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (1)" />
@@ -177,40 +229,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1665420724903">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1665420724903" />
-    <state x="576" y="755" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1665420176210">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="576" y="755" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1665420176210" />
-    <state x="689" y="285" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1665423404725">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="689" y="285" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1665423404725" />
-    <state width="1877" height="283" key="GridCell.Tab.0.bottom" timestamp="1665079921757">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1665079921757" />
-    <state width="1877" height="283" key="GridCell.Tab.0.center" timestamp="1665079921757">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="283" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1665079921757" />
-    <state width="1877" height="283" key="GridCell.Tab.0.left" timestamp="1665079921757">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="283" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1665079921757" />
-    <state width="1877" height="283" key="GridCell.Tab.0.right" timestamp="1665079921757">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="283" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1665079921757" />
-    <state x="549" y="145" key="SettingsEditor" timestamp="1665416445178">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="549" y="145" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1665416445178" />
   </component>
 </project>
