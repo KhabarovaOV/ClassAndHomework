@@ -1,7 +1,8 @@
 package service.service_interface;
 
+import page.LoginPage;
 import service.LoginPageService;
 
 public interface HasLoginPageService {
-    LoginPageService getLoginPageService();
+    LoginPage getLoginPageService();
 }

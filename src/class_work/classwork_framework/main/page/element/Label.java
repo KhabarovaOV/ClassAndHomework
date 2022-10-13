@@ -1,6 +1,7 @@
 package page.element;
 
-import example.page.annotation.Element;
+
+import annatation.Element;
 
 @Element(elementName = "Label root element")
 public class Label extends BaseElement {

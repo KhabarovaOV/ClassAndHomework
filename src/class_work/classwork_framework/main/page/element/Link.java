@@ -1,6 +1,7 @@
 package page.element;
 
-import example.page.annotation.Element;
+
+import annatation.Element;
 
 @Element(elementName = "Link root element")
 public class Link extends BaseElement {

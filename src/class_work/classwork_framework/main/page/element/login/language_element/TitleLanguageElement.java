@@ -1,6 +1,7 @@
 package page.element.login.language_element;
 
-import example.page.annotation.Element;
+
+import annatation.Element;
 import page.element.Label;
 
 @Element(elementName = "Title language element")

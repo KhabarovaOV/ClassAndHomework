@@ -1,6 +1,7 @@
 package page;
 
-import example.page.annotation.Page;
+
+import annatation.Page;
 import page.block.TopMenuBlock;
 import page.block.left_menu.FooterLeftMenuBlock;
 import page.block.left_menu.HeaderLeftMenuBlock;

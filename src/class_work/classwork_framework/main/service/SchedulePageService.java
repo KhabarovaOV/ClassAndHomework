@@ -1,15 +1,14 @@
-package service;
-
-import example.page.MainPage;
-import example.page.annotation.Service;
-import example.page.service.service_interface.HasMainPage;
-
-@Service(serviceName = "Schedule page service")
-public class SchedulePageService extends BaseService implements HasMainPage {
-    private MainPage mainPage = new MainPage();
-
-    @Override
-    public MainPage getMainPage() {
-        return mainPage;
-    }
-}
+//package service;
+//
+//
+//import annatation.Service;
+//import page.MainPage;
+//import page.SchedulePage;
+//import service.service_interface.HasMainPageService;
+//
+//@Service(serviceName = "Schedule page service")
+//public class SchedulePageService extends BaseService implements HasMainPageService {
+//    private SchedulePage schedulePage = new SchedulePage();
+//
+//
+//}

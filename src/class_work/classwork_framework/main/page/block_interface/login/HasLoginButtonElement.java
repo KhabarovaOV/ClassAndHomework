@@ -5,7 +5,7 @@ import page.element.login.LoginButtonElement;
 public interface HasLoginButtonElement {
     LoginButtonElement getLoginButtonElement();
 
-    default void showLoginButtonElement(){
+    default void showLoginButtonElementSelector(){
         System.out.println(getLoginButtonElement().elementSelector);
     }
 }

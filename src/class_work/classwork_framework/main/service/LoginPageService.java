@@ -1,16 +1,17 @@
 package service;
 
-import example.page.LoginPage;
-import example.page.annotation.Service;
-import example.page.service.service_interface.HasLoginPage;
+
+import annatation.Service;
+import page.LoginPage;
+import service.service_interface.HasLoginPageService;
 
 @Service(serviceName = "Login page service")
-public class LoginPageService extends BaseService implements HasLoginPage {
+public class LoginPageService extends BaseService implements HasLoginPageService {
 
     private LoginPage loginPage = new LoginPage();
 
     @Override
-    public LoginPage getLoginPage() {
+    public LoginPage getLoginPageService() {
         return loginPage;
     }
 }

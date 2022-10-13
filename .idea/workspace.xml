@@ -4,65 +4,24 @@
     <list default="true" id="977adb73-7ac4-40ca-917e-34e022792e67" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/ClassAndHomework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ClassAndHomework.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/BasePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/LoginPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/MainPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/PresentsPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/SchedulePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/annotation/Block.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/annotation/Element.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/annotation/Page.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/annotation/Service.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/BaseBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/TopMenuBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/leftMenuBlock/FooterLeftMenuBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/leftMenuBlock/HeaderLeftMenuBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/leftMenuBlock/LeftMenuBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/leftMenuBlock/NavigationLeftMenuBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/login/LanguageBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/login/LoginFormBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/main/EventBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/main/NewsBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/present/HeaderBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/present/MaterialInformationBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/present/NavigationBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block/present/StudentsTableBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block_interface/login/language_element/HasLanguageElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/block_interface/login/language_element/HasTitleLanguageElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/element/BaseElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/element/Button.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/element/Input.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/element/Label.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/element/Link.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/element/login/LoginButtonElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/element/login/LoginFieldElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/element/login/PasswortFieldElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/element/login/RecoverPasswordElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/element/login/language_element/LanguageElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/element/login/language_element/TitleLanguageElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/HasBaseBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/HasTopMenuBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/left_menu/HasFooterLeftMenuBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/left_menu/HasHeaderLeftMenuBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/left_menu/HasLeftMenuBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/left_menu/NavigationLeftMenuBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/login/HasLanguageBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/login/HasLoginFormBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/main/HasEventBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/main/HasNewsBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/present/HasHeaderBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/present/HasMaterialInformationBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/present/HasNavigationBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/page_interface/present/HasStudentsTableBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/service/BaseService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/service/LoginPageService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/service/MainPageService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/service/PresentPageService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/service/SchedulePageService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/service/service_interface/HasLoginPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/service/service_interface/HasMainPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/service/service_interface/HasPresentPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_10102022/main/example/page/service/service_interface/HasSchedulePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/ClassAndHomework/class_work/classwork_06102022/HasRebootButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/ClassAndHomework/class_work/classwork_06102022/HasRebootButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/SchedulePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/SchedulePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/block_interface/login/HasLoginButtonElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/block_interface/login/HasLoginButtonElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/element/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/element/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/element/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/element/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/element/Label.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/element/Label.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/element/Link.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/element/Link.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/element/login/language_element/LanguageElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/element/login/language_element/LanguageElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/element/login/language_element/TitleLanguageElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/element/login/language_element/TitleLanguageElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/LoginPageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/LoginPageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/MainPageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/MainPageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/PresentPageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/PresentPageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/SchedulePageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/SchedulePageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/service_interface/HasLoginPageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/service_interface/HasLoginPageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/service_interface/HasMainPageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/service_interface/HasMainPageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/service_interface/HasPresentPageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/service_interface/HasPresentPageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/service_interface/HasSchedulePageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/service_interface/HasSchedulePageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/test/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/test/LoginPageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,8 +33,8 @@
       <list>
         <option value="Enum" />
         <option value="AnnotationType" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -93,29 +52,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
-  }
-}</component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="example.page.service.service_interface" />
       <recent name="class_work.classwork_06102022" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+  <component name="RunManager" selected="Application.OutOfMemoryError">
+    <configuration name="LoginPageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoginPageTest" />
+      <module name="ClassAndHomework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -159,25 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="home_work.homework_nasledovanie_01102022.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="home_work.homework_nasledovanie_01102022.task2.Main" />
+    <configuration name="OutOfMemoryError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_work.classwork_13102022.OutOfMemoryError" />
       <module name="ClassAndHomework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="home_work.homework_nasledovanie_01102022.task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="home_work.homework_nasledovanie_01102022.task4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="home_work.homework_nasledovanie_01102022.task4.Main" />
-      <module name="ClassAndHomework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="home_work.homework_nasledovanie_01102022.task4.*" />
+          <option name="PATTERN" value="class_work.classwork_13102022.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OutOfMemoryError" />
+        <item itemvalue="Application.LoginPageTest" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.home_work.homework_nasledovanie_01102022.task4.Main" />
-        <item itemvalue="Application.home_work.homework_nasledovanie_01102022.task2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -213,6 +161,9 @@
       <workItem from="1665069683791" duration="6000" />
       <workItem from="1665069712495" duration="6031000" />
       <workItem from="1665415984426" duration="8450000" />
+      <workItem from="1665674936223" duration="4000" />
+      <workItem from="1665674952271" duration="4544000" />
+      <workItem from="1665681186459" duration="307000" />
     </task>
     <servers />
   </component>
@@ -229,5 +180,36 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="841" y="286" key="#com.intellij.ide.util.MemberChooser" timestamp="1665680258754">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="841" y="286" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1665680258754" />
+    <state width="1877" height="283" key="GridCell.Tab.0.bottom" timestamp="1665681133578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1665681133578" />
+    <state width="1877" height="283" key="GridCell.Tab.0.center" timestamp="1665681133578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1665681133578" />
+    <state width="1877" height="283" key="GridCell.Tab.0.left" timestamp="1665681133578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1665681133578" />
+    <state width="1877" height="283" key="GridCell.Tab.0.right" timestamp="1665681133578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1665681133578" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1665680416867">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1665680416867" />
+    <state x="830" y="623" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1665677069437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="830" y="623" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1665677069437" />
   </component>
 </project>

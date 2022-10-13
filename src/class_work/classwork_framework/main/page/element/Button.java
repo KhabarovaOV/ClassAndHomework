@@ -1,6 +1,7 @@
 package page.element;
 
-import example.page.annotation.Element;
+
+import annatation.Element;
 
 @Element(elementName = "Button root element")
 public class Button extends BaseElement {

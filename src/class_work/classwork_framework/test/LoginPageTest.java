@@ -8,25 +8,25 @@ public class LoginPageTest {
 
     }
     public void checkPasswordField(){
-        loginPageService.getLoginPage().getLoginFormBlock().showLoginFieldElementSelector();
+        loginPageService.getLoginPageService().getLoginFormBlock().showLoginFieldElementSelector();
     }
 
     public void checkLoginField(){
-        loginPageService.getLoginPage().getLoginFormBlock().showLoginFieldElementSelector();
+        loginPageService.getLoginPageService().getLoginFormBlock().showLoginFieldElementSelector();
     }
 
     public void checkLoginButton(){
-        loginPageService.getLoginPage().getLoginFormBlock().showLoginButtonElementSelector();
+        loginPageService.getLoginPageService().getLoginFormBlock().showLoginButtonElementSelector();
     }
 
     public void checkRecoverPassword(){
-        loginPageService.getLoginPage().getLoginFormBlock().showRecoverPasswordElementSelector();
+        loginPageService.getLoginPageService().getLoginFormBlock().showRecoverPasswordElementSelector();
     }
 
     public void checkLanguageElement(){
-        loginPageService.getLoginPage().getLanguageBlock().showLanguageElementSelector();
+        loginPageService.getLoginPageService().getLanguageBlock().showLanguageElementSelector();
     }
      public void checkTitleLanguageElement(){
-        loginPageService.getLoginPage().getLanguageBlock().showTitleLanguageElementSelector();
+        loginPageService.getLoginPageService().getLanguageBlock().showTitleLanguageElementSelector();
      }
 }
