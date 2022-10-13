@@ -1,4 +1,4 @@
-package class_work.classwork_13102022;
+package class_work.classwork_13102022.task1;
 
 import java.util.LinkedList;
 import java.util.List;

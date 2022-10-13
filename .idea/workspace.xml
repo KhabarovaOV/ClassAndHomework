@@ -4,24 +4,8 @@
     <list default="true" id="977adb73-7ac4-40ca-917e-34e022792e67" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/ClassAndHomework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ClassAndHomework.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/ClassAndHomework/class_work/classwork_06102022/HasRebootButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/ClassAndHomework/class_work/classwork_06102022/HasRebootButton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/SchedulePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/SchedulePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/block_interface/login/HasLoginButtonElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/block_interface/login/HasLoginButtonElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/element/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/element/Button.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/element/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/element/Input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/element/Label.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/element/Label.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/element/Link.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/element/Link.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/element/login/language_element/LanguageElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/element/login/language_element/LanguageElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/element/login/language_element/TitleLanguageElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/page/element/login/language_element/TitleLanguageElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/LoginPageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/LoginPageService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/MainPageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/MainPageService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/PresentPageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/PresentPageService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/SchedulePageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/SchedulePageService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/service_interface/HasLoginPageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/service_interface/HasLoginPageService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/service_interface/HasMainPageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/service_interface/HasMainPageService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/service_interface/HasPresentPageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/service_interface/HasPresentPageService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/service_interface/HasSchedulePageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/main/service/service_interface/HasSchedulePageService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_framework/test/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_framework/test/LoginPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/ClassAndHomework/class_work/classwork_13102022/OutOfMemoryError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_13102022/OutOfMemoryError.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_13102022/task1/OutOfMemoryError.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +57,33 @@
       <recent name="class_work.classwork_06102022" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OutOfMemoryError">
+  <component name="RunManager" selected="Application.ClassObertka">
+    <configuration name="ClassObertka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_work.classwork_13102022.task2.ClassObertka" />
+      <module name="ClassAndHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class_work.classwork_13102022.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ErrorByte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_work.classwork_13102022.task3.ErrorByte" />
+      <module name="ClassAndHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class_work.classwork_13102022.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LoginPageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LoginPageTest" />
       <module name="ClassAndHomework" />
@@ -94,52 +104,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class_work.classwork_03102022.annotation.Main" />
-      <module name="ClassAndHomework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class_work.classwork_03102022.annotation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class_work.classwork_03102022.interfase.Main" />
-      <module name="ClassAndHomework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class_work.classwork_03102022.interfase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="OutOfMemoryError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class_work.classwork_13102022.OutOfMemoryError" />
+      <option name="MAIN_CLASS_NAME" value="class_work.classwork_13102022.task1.OutOfMemoryError" />
       <module name="ClassAndHomework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class_work.classwork_13102022.*" />
+          <option name="PATTERN" value="class_work.classwork_13102022.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassObertka" />
+        <item itemvalue="Application.ErrorByte" />
         <item itemvalue="Application.OutOfMemoryError" />
         <item itemvalue="Application.LoginPageTest" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -164,6 +159,7 @@
       <workItem from="1665674936223" duration="4000" />
       <workItem from="1665674952271" duration="4544000" />
       <workItem from="1665681186459" duration="307000" />
+      <workItem from="1665682633264" duration="379000" />
     </task>
     <servers />
   </component>
@@ -187,26 +183,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="841" y="286" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1665680258754" />
-    <state width="1877" height="283" key="GridCell.Tab.0.bottom" timestamp="1665681133578">
+    <state width="1860" height="98" key="GridCell.Tab.0.bottom" timestamp="1665682928315">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1665681133578" />
-    <state width="1877" height="283" key="GridCell.Tab.0.center" timestamp="1665681133578">
+    <state width="1860" height="98" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1665682928315" />
+    <state width="1860" height="98" key="GridCell.Tab.0.center" timestamp="1665682928314">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="283" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1665681133578" />
-    <state width="1877" height="283" key="GridCell.Tab.0.left" timestamp="1665681133578">
+    <state width="1860" height="98" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1665682928314" />
+    <state width="1860" height="98" key="GridCell.Tab.0.left" timestamp="1665682928314">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="283" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1665681133578" />
-    <state width="1877" height="283" key="GridCell.Tab.0.right" timestamp="1665681133578">
+    <state width="1860" height="98" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1665682928314" />
+    <state width="1860" height="98" key="GridCell.Tab.0.right" timestamp="1665682928315">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="283" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1665681133578" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1665680416867">
+    <state width="1860" height="98" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1665682928315" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1665682648380">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1665680416867" />
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1665682648380" />
     <state x="830" y="623" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1665677069437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
