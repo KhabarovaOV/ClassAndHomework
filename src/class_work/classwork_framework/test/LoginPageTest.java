@@ -5,7 +5,12 @@ public class LoginPageTest {
 
     public static void main(String[] args) {
         LoginPageTest test = new LoginPageTest();
-
+        test.checkLoginButton();
+        test.checkLoginField();
+        test.checkLanguageElement();
+        test.checkPasswordField();
+        test.checkRecoverPassword();
+        test.checkTitleLanguageElement();
     }
     public void checkPasswordField(){
         loginPageService.getLoginPageService().getLoginFormBlock().showLoginFieldElementSelector();

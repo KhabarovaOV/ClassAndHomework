@@ -1,7 +1,8 @@
-//package service.service_interface;
-//
-//import service.MainPageService;
-//
-//public interface HasMainPageService {
-//    MainPageService getMainPageService();
-//}
+package service.service_interface;
+
+
+import page.MainPage;
+
+public interface HasMainPageService {
+    MainPage getMainPageService();
+}

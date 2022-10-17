@@ -1,7 +1,7 @@
-//package service.service_interface;
-//
-//import service.PresentPageService;
-//
-//public interface HasPresentPageService {
-//    PresentPageService getPresentPageService();
-//}
+package service.service_interface;
+
+import page.PresentPage;
+
+public interface HasPresentPageService {
+    PresentPage getPresentPageService();
+}
