@@ -7,7 +7,6 @@ public class Task1 {
     public static void main(String[] args) {
         Task1 task1 = new Task1();
         task1.getCorrectNumberFromConsole();
-        task1.verifyInputedNumber(task1.number);
         task1.verifyRange();
         System.out.println(task1.number + " number in range");
     }
@@ -20,7 +19,7 @@ public class Task1 {
             text = sc.nextLine();
             number = Integer.parseInt(text);
         }catch (NumberFormatException e) {
-            System.out.println(text + "is not a number");
+            System.out.println(text + " is not a number");
             getCorrectNumberFromConsole();
         }
     }
@@ -29,6 +28,7 @@ public class Task1 {
         try {
             verifyInputedNumber(number);
         }catch (IllegalArgumentException e){
+            System.out.println(e.getMessage());
             getCorrectNumberFromConsole();
             verifyRange();
         }

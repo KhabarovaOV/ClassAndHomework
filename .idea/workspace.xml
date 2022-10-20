@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="977adb73-7ac4-40ca-917e-34e022792e67" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/test/ClassAndHomework/LoginPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/test/ClassAndHomework/LoginPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_work/classwork_17102022/task1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_work/classwork_17102022/task1/Task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,17 +34,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "C:/Github/ClassAndHomework"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="example.page.service.service_interface" />
@@ -52,6 +46,19 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Task1">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ClassObertka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class_work.classwork_13102022.task2.ClassObertka" />
       <module name="ClassAndHomework" />
@@ -111,19 +118,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Task1" />
@@ -173,24 +167,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="831" height="116" key="GridCell.Tab.0.bottom" timestamp="1666029044832">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="831" height="116" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1666029044832" />
-    <state width="831" height="116" key="GridCell.Tab.0.center" timestamp="1666029044831">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="831" height="116" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1666029044831" />
-    <state width="831" height="116" key="GridCell.Tab.0.left" timestamp="1666029044830">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="831" height="116" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1666029044830" />
-    <state width="831" height="116" key="GridCell.Tab.0.right" timestamp="1666029044831">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="831" height="116" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1666029044831" />
   </component>
 </project>
