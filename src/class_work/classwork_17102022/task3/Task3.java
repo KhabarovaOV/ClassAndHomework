@@ -11,8 +11,8 @@ public class Task3 {
 
         Task3 task3 = new Task3();
         task3.exeptionArrays(arr1, 5, 2, arr2, 0, 2);
-        task3.exeptionArrays1(arr1, 5, 12, arr2, 0, 2);
-        task3.exeptionArrays2(arr1, 1, 2, arr3, 0, 2);
+        task3.exeptionArrays(arr1, 5, 12, arr2, 0, 2);
+        task3.exeptionArrays(arr1, 1, 2, arr3, 0, 2);
     }
 
     public void exeptionArrays(int[] a, int aFromIndex, int aToIndex,
@@ -22,24 +22,8 @@ public class Task3 {
             Arrays.compare(a, aFromIndex, aToIndex, b, bFromIndex, bToIndex);
         } catch (IllegalArgumentException e) {
             System.err.println("Hello error IllegalArgumentException");
-        }
-    }
-
-    public void exeptionArrays1(int[] a, int aFromIndex, int aToIndex,
-                               int[] b, int bFromIndex, int bToIndex) {
-
-        try {
-            Arrays.compare(a, aFromIndex, aToIndex, b, bFromIndex, bToIndex);
         } catch (ArrayIndexOutOfBoundsException e) {
             System.err.println("Hello error ArrayIndexOutOfBoundsException");
-        }
-    }
-
-    public void exeptionArrays2(int[] a, int aFromIndex, int aToIndex,
-                                int[] b, int bFromIndex, int bToIndex) {
-
-        try {
-            Arrays.compare(a, aFromIndex, aToIndex, b, bFromIndex, bToIndex);
         } catch (NullPointerException e) {
             System.err.println("Hello error NullPointerException");
         }
