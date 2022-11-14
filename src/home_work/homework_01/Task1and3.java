@@ -11,7 +11,7 @@ public class Task1and3 {
         System.out.println(name.c);
         double m = name.a+ name.b;
         System.out.println(m);
-        DataOnly name1 = new DataOnly();
+        Task3DataOnly name1 = new Task3DataOnly();
         System.out.println(name1.a);
         System.out.println(name1.b);
     }

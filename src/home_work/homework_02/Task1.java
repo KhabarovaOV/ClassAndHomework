@@ -1,8 +1,8 @@
 package home_work.homework_02;
 
 public class Task1 {
-        int storage (String s) {
-        return s.length()*2;
+    int storage(String s) {
+        return s.length() * 2;
     }
 
     public static void main(String[] args) {
